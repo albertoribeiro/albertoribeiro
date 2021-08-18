@@ -4,7 +4,7 @@
 </div>
 
 - 🔭 I’m currently working on Full Stack Web Development
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Clean Architecture
 - 😄 Pronouns: he/him
 
  <div>
